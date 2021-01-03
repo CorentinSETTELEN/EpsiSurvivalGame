@@ -27,4 +27,4 @@ John n’interagit pas avec une entité allié mais seulement avec son environnement
 Lors de vos premières parties l’objectif (écrit en bas à droite de l’écran), va vous demander d’atteindre les 200 de score pour gagner.
 Si vous relancer le jeu, vous n’allez plus avoir de limitation de score, ce qui vous permettra d’essayer de battre du record du monde officiel : 2500.
 
-### Bon jeu ou plutôt … GL & HF 12
+### Bon jeu ou plutôt … GL & HF
