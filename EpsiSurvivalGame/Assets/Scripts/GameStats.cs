@@ -39,16 +39,24 @@ public class GameStats : MonoBehaviour {
 	void Update () {
 
         timerHungry += 1;
-        if (timerHungry % 15 == 1 && health != 0 && dead != true && points != 0)
+        if (timerHungry % 20 == 1 && health != 0 && dead != true && points != 0)
         {
             health -= 1;
         }
 
-        if(points == 200)
+        if (points == 200)
         {
-            dead = true;
-            win.SetActive(true);
-            DestroyAllObjects();
+            if (bestScore < 199)
+            {
+                bestScore = 200;
+                dead = true;
+                win.SetActive(true);
+                DestroyAllObjects();
+            }
+            else
+            {
+                Objectif.text = "Objectif :\n Survivre et atteindre le meilleure score \n (WR : 2500) !";
+            }
         }
         
 
