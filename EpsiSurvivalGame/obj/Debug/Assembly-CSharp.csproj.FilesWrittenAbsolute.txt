@@ -1,0 +1,17 @@
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/obj/Debug/Assembly-CSharp.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/UnityEngine.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/UnityEditor.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wsmelser/Documents/college/DungeonSurvival/Temp/bin/Debug/Mono.Cecil.Mdb.dll
